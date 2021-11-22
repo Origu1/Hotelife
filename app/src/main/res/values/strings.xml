@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hotelife</string>
+
+    <string name="Entrar">Entrar</string>
+    <string name="text_cadastro">Crie uma conta clicando aqui</string>
+    <string name="titulo_cadastro">Cadastro de novo usuário</string>
+</resources>
